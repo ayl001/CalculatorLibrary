@@ -12,4 +12,4 @@ def subtract(first_term, second_term):
 
 
 def multiply(first_term, second_term):
-    return 99
+    return first_term * second_term
